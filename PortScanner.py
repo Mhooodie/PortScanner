@@ -1,10 +1,10 @@
 import socket
 import sys
-import pyfiglet
 from datetime import datetime
 
-banner = pyfiglet.figlet_format("Port Scanner")
-print(banner)
+print("--------------------")
+print("PORT SCANNER")
+print("--------------------")
 
 # target = input("Please Enter host to Scan: ")
 target = input("Please Enter host to Scan: ")
