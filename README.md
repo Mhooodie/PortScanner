@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Port Scanner Instructions</title>
+    Port Scanner
 </head>
 <body>
     <h1>Port Scanner</h1>
@@ -38,3 +38,4 @@
     <p>This tool is intended for educational purposes only. Do not use it for any unauthorized or illegal activities.</p>
 </body>
 </html>
+
