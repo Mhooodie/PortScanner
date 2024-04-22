@@ -34,8 +34,6 @@
         <li>Ensure you have necessary permissions to run the scanner.</li>
     </ul>
     
-<h2>Disclaimer:</h2>
-    <p>This tool is intended for educational purposes only. Do not use it for any unauthorized or illegal activities.</p>
 </body>
 </html>
 
